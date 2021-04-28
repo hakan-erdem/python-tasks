@@ -13,4 +13,4 @@ else:
         print(f"{result} is an Armstrong number")
 
     else:
-        print(f"{result} is not an Armstrong number")
+        print(f"{n} is not an Armstrong number")
